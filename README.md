@@ -1,6 +1,6 @@
 # adstack
 
-#Output
+# Output
 
 
 https://github.com/user-attachments/assets/725fce1f-bcfc-40d6-9371-fb539eebe303
