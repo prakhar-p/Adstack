@@ -1,5 +1,12 @@
 # adstack
 
+#Output
+
+
+https://github.com/user-attachments/assets/725fce1f-bcfc-40d6-9371-fb539eebe303
+
+
+
 A new Flutter project.
 
 ## Getting Started
